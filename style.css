@@ -3,7 +3,13 @@ body {
   height: 100%;
   width: 100%;
   font-family: Arial, Helvetica, sans-serif;
-}
+  text-align: center;
+} 
+
+
+
+
+
 
 section {
   width: 100%;
@@ -20,9 +26,17 @@ img {
   height: 300px;
   background-attachment: fixed;
 }
-.banner {
+.banner
+  /*Banner*/
+header {
+width:100%
+height:
+background-color: beige;  
+text-align: center;
   display: block;
   margin: auto;
+font-family: 'courier new', monospace;
+padding-top: 80px;
 }
 
 ul {
@@ -46,6 +60,32 @@ a:hover {
   background-color: gray;
   color: white;
 }
+
+
+ nav a:hover { colour: black; }
+
+/* Mobile navigation */
+.mobile-iconb {
+  width: 100%;
+  text-align: right;
+  box-sizing: borderbox;
+  cursor: pointer;
+  colour: 
+  display: none;
+  font-size: 20px;
+  font-family:
+  margin:
+  position: relative;
+  padding-left: 1.25em;  
+}
+/* style of mobile icron*/
+.mobile-icon:before{ 
+  content "";
+  
+} 
+ 
+    
+    
 
 nav {
   font-family: 'Fira Sans', 'sans-serif';
