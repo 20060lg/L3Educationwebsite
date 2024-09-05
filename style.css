@@ -13,7 +13,7 @@ body {
 	z-index: 999;
 	top: 0;
 	font-size: 25px;
-  background-color: ;
+
 }
 .nav-bar li:last-child {
 	margin-right: 60px;
@@ -32,7 +32,6 @@ nav ul {
   -webkit-transition: max-height 0.4s;
 	-ms-transition: max-height 0.4s;
 	-moz-transition: max-height 0.4s;
-	-0-transition: max-height 0.4s;
 	transition: max-height 0.4s;
 }
 
@@ -98,8 +97,7 @@ img {
 .banner
   /*Banner*/
 header {
-width:100%
-height:
+width:100%;
 background-color: beige;  
 text-align: center;
   display: block;
@@ -139,26 +137,18 @@ a:hover {
   text-align: right;
   box-sizing: borderbox;
   cursor: pointer;
-  colour: 
   display: none;
   font-size: 20px;
-  font-family:
-  margin:
   position: relative;
   padding-left: 1.25em;  
 }
 /* style of mobile icron*/
-.mobile-icon:before{ 
-  content "";
-  
-} 
- 
+
     
     
 
 nav {
   font-family: 'Fira Sans', 'sans-serif';
-  background-color: ;
   border-radius: 20px;
 
 }
@@ -199,7 +189,7 @@ header {
 
 footer {
   color: white;
-  font-family: ;
+
   }
 
 .line
